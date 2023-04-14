@@ -16,6 +16,9 @@ h1 {
   font-family: sans-serif;
   font-size: 36px;
 }
+a {
+  text-decoration: none;
+}
 
 a:active,
 a:visted {
